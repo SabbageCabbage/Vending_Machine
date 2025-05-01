@@ -1,0 +1,159 @@
+{
+    "inventory": [
+        {
+            "item":"Funions",
+            "quantity":5,
+            "price_usd":2.0
+        },
+        {
+            "item":"Salt and Vinegar potato chips",
+            "quantity":6,
+            "price_usd":2.25
+        },
+        {
+            "item":"Cheddar Sun Chips",
+            "quantity":10,
+            "price_usd":2.50
+        },
+        {
+            "item":"Jalepeno Cheetos",
+            "quantity":5,
+            "price_usd":2.0
+        },
+        {
+            "item":"Cheetos",
+            "quantity":10,
+            "price_usd":2.5
+        },
+        {
+            "item":"Potato Skins Chips",
+            "quantity":5,
+            "price_usd":2.0
+        },
+        {
+            "item":"Lays Classics",
+            "quantity":5,
+            "price_usd":1.5
+        },
+        {
+            "item":"Chesters Fries Flamin Hot",
+            "quantity":5,
+            "price_usd":2.0
+        },
+        {
+            "item":"Ruffles",
+            "quantity":5,
+            "price_usd":2.0
+        },
+        {
+            "item":"Ruffles Queso",
+            "quantity":5,
+            "price_usd":2.25
+        },
+        {
+            "item":"Cheez-It",
+            "quantity":9,
+            "price_usd":2.25
+        },
+        {
+            "item":"Gummy Bears",
+            "quantity":7,
+            "price_usd":3.25
+        },
+        {
+            "item":"Chocolate Chip Cookie",
+            "quantity":5,
+            "price_usd":3.0
+        },
+        {
+            "item":"Rice Krispies Treat",
+            "quantity":6,
+            "price_usd":2.0
+        },
+        {
+            "item":"Gardeto's Snacks",
+            "quantity":5,
+            "price_usd":1.75
+        },
+        {
+            "item":"Life Savers",
+            "quantity":5,
+            "price_usd":1.0
+        },
+        {
+            "item":"Cheez-It Grooves",
+            "quantity":5,
+            "price_usd":2.0
+        },
+        {
+            "item":"Jack-Link's beef bites",
+            "quantity":5,
+            "price_usd":4.0
+        },
+        {
+            "item":"Cliff Bar",
+            "quantity":7,
+            "price_usd":3.50
+        },
+        {
+            "item":"Roasted Almonds",
+            "quantity":5,
+            "price_usd":2.0
+        },
+        {
+            "item":"Starburst",
+            "quantity":5,
+            "price_usd":2.0
+        },
+        {
+            "item":"Hershey's Chocolate Bar",
+            "quantity":5,
+            "price_usd":2.0
+        },
+        {
+            "item":"Skittles",
+            "quantity":5,
+            "price_usd":2.0
+        },
+        {
+            "item":"Payday",
+            "quantity":5,
+            "price_usd":2.0
+        },
+        {
+            "item":"Snickers",
+            "quantity":5,
+            "price_usd":2.0
+        },
+        {
+            "item":"Butterfinger",
+            "quantity":5,
+            "price_usd":2.0
+        },
+        {
+            "item":"100 Grand",
+            "quantity":5,
+            "price_usd":2.0
+        },
+        {
+            "item":"Iced Honey Bun",
+            "quantity":10,
+            "price_usd":2.50
+        },
+        {
+            "item":"Nerds Gummy Clusters",
+            "quantity":10,
+            "price_usd":1.25
+        },
+        {
+            "item":"Powdered Mini-Donuts",
+            "quantity":4,
+            "price_usd":2.0
+        },
+        {
+            "item":"Chocolate Mini-Donuts",
+            "quantity":2,
+            "price_usd":2.0
+        }
+    ]
+}
