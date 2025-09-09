@@ -9,7 +9,7 @@ from plotly.graph_objs import Bar
 from plotly import offline
 import requests
 
-inventory_file = "tu_vending_inventory.json"
+inventory_file = "inventory.json"
 transaction_file = "transaction_log.csv"
 
 def generate_slots():
@@ -100,7 +100,7 @@ def Generate_Inventory_Graph(my_inventory): #makes bar graph, basically the same
     )
 
 def Exchange_Currency(my_inventory,target_currency='USD'): #requesting currency exchange
-    API_KEY = "02f827fc936b53c0e7348a066e1c9183"
+    API_KEY = "add ur own here :bS"
     url = "http://api.exchangeratesapi.io/v1/latest"
     params = {
         "access_key": API_KEY,
